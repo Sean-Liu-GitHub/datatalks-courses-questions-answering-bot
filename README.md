@@ -1,5 +1,5 @@
 # LLM Project - DataTalks Zoomcamp Questions Answering
-**This project is sourced from DataTalks Club LLM Zoomcamp. The purpose of this project is to create a AI chatbot to answer courses-related questions from people who are interested in those three courses(data engineering, machine learning and mlops zoomcamps).**
+**The purpose of this project is to create a AI chatbot to answer courses-related questions from people who are interested in those three courses(data engineering, machine learning and mlops zoomcamps).**
 
 **Step:**
 1. Enter your question
